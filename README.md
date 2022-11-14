@@ -1,1 +1,1 @@
-# Dynamodb
+# Dynamodb - Serverless Workshop
